@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="facebook_app_id">652694511846169</string>
+    <string name="fb_login_protocol_scheme">fb652694511846169</string>
+    <string name="fb_login_status">Login into application</string>
+    <string name="login_message">You are logged in as &lt;b>%1$s %2$s&lt;/b>.</string>
+</resources>
